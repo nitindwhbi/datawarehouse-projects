@@ -1,0 +1,1 @@
+create schema sch_pizza_edw;
